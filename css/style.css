@@ -9,6 +9,7 @@
   margin: 0;
   overflow: hidden;
   display: inline-block;
+  background-color: blue;
 }
 
 #main-navbar ul li {
